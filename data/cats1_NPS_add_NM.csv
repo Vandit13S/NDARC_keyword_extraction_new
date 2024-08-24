@@ -1,0 +1,25 @@
+,Listing phrase,Category level 1,Category level 2,Notes,Type of NPS,Other name 1,Other name 2,Other name 3,Other name 4,Chemical name,Listing phrase length,listing phrase
+806,2-fdck,2-Fluorodeschloroketamine,NPS, (in old csv file as synonym https://en.wikipedia.org/wiki/2-Fluorodeschloroketamine),,,,,,,,2-fdck
+894,3-chlorophenmetrazine,3-CPM,NPS,,,,,,,,,3-chlorophenmetrazine
+895,3-cpm,3-CPM,NPS,,,,,,,,,3-cpm
+948,4-AcO-EPT,4-AcO-EPT,NPS,,,,,,,,,4-aco-ept
+1002,4-fluoroamfetamine,4-FA,NPS," (Is it '4-FA'? Both links say it is also 4-FMP, but I thought 4-FMP might be 4-fluoromethylphenidate but seems like 4-fluoromethylphenidate is 4F-MPH. https://en.wikipedia.org/wiki/4-Fluoroamphetamine, https://psychonautwiki.org/wiki/4-FA)",,,,,,,,4-fluoroamfetamine
+1883,MMB-CHMICA,MMB-CHMICA,NPS,,Cannabinoids,,,,,,,mmb-chmica
+1330,a-d2pv,alpha-D2PV,NPS,(https://dosetest.com/nps-testinga-d2pv/),,,,,,,,a-d2pv
+1331,alpha-d2pv,alpha-D2PV,NPS,(https://dosetest.com/nps-testinga-d2pv/),,,,,,,,alpha-d2pv
+1348,alpha-pyrrolidinohexiophenone,alpha-PiHP,NPS,,,,,,,,,alpha-pyrrolidinohexiophenone
+1349,aphip,alpha-PiHP,NPS,,,,,,,,,aphip
+1453,bufotenin,Bufotenine,NPS, (See note later about whether bufotenine is the same as 5-HO-DMT.),,,,,,,,bufotenin
+1594,etazen,Etazene,NPS, (misspelled for etazene),,,,,,,,etazen
+1595,etazene,Etazene,NPS,,,,,,,,,etazene
+1618,etonitazene,Etonitazene,NPS,,,,,,,,,etonitazene
+1619,etonitazepipne,Etonitazene,NPS, (misspelled for etonitazene),,,,,,,,etonitazepipne
+1703,isotonitazene,Isotonitazene,NPS,,,,,,,,,isotonitazene
+1870,metonitazene,Metonitazene,NPS, (opioids in highrespnps),,,,,,,,metonitazene
+2049,protonitazene,Protonitazene,NPS, (Opioids in highrespnps),,,,,,,,protonitazene
+2573,synthetic cannabinoid,Synthetic cannabinoids not specified,NPS,,Cannabinoids,,,,,,,synthetic cannabinoid
+2572,synthetic cannabionid,Synthetic cannabinoids not specified,NPS,,,,,,,,,synthetic cannabionid
+2158,yopo,yopo,NPS," (This is a plant and we had 'yopo snuff' as a key in one of our historical csv files but it got dropped in our current version and yopo tends to be 'yopo seeds', e.g. '28g Yopo Seeds (9% Bufotenine)'. Class it as an 'NPS' at level 2 like for ayahuasca?)",,,,,,,,yopo
+1345,α-PHP,alpha-PHP,NPS,,,,,,,,,α-php
+1341,α-PHiP,alpha-PHiP,NPS,,,,,,,,,α-phip
+1351,α-pyrrolidinohexiophenone,alpha-PiHP,NPS,,,,,,,,,α-pyrrolidinohexiophenone

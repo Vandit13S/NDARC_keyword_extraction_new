@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "llama-fine-tuning"
+version = "0.1.0"
+description = "Fine tuning Llama 3.1 for NDARC"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "^2.4.0"
+transformers = "^4.44.0"
+datasets = "^2.20.0"
+accelerate = "^0.33.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
